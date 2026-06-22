@@ -1,0 +1,11 @@
+
+| Methode Fusion    | Type      | Avantage                    |
+|-------------------|-----------|-----------------------------|
+| Moyenne           | Fixe      | Simple, rapide              |
+| Vote Majoritaire  | Fixe      | Robuste au bruit            |
+| Poids Manuels     | Fixe      | Expertise humaine           |
+| Meta-Learning     | Adaptatif | S'adapte a chaque echantillon|
+|                   |           | Meilleure performance       |
+
+Conclusion: Le Meta-Learning offre la meilleure performance
+mais necessite des donnees d'entrainement supplementaires.

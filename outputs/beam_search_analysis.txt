@@ -1,0 +1,13 @@
+
+| Critere          | Greedy Decoding | Beam Search (K=3) | Beam Search (K=5) |
+|------------------|-----------------|-------------------|-------------------|
+| Vitesse          | Rapide          | Moyen             | Lent              |
+| Qualite          | Moyenne         | Bonne             | Tres bonne        |
+| Memoire          | Faible          | Moyenne           | Elevee            |
+| Diversite        | Faible          | Moyenne           | Elevee            |
+| Risque boucle    | Eleve           | Moyen             | Faible            |
+
+Recommandation:
+- Greedy: pour les applications temps reel
+- Beam K=3: bon compromis qualite/vitesse
+- Beam K=5: pour la traduction (qualite maximale)

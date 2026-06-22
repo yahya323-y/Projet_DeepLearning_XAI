@@ -1,0 +1,7 @@
+Configuration,Accuracy,Drop,Impact
+Full Model,0.9299,0.0000,Reference
+Sans Dropout,0.8872,0.0427,Faible
+Sans BatchNorm,0.8830,0.0470,Faible
+Sans Attention,0.8805,0.0495,Faible
+Small MLP,0.7753,0.1546,Eleve
+MLP Seul,0.7453,0.1846,Eleve
